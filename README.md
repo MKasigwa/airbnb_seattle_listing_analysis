@@ -35,6 +35,12 @@ The following Airbnb activity is included in this Seattle dataset:
 - Data Visualization
 - Conclusion
 
+## Installation 
+
+- Clone the project https://github.com/MKasigwa/datascience_project1.git
+- Change to the new datascience_project1 directory : cd datascience_project1
+- With jupiter open the Project1.ipynb file
+
 ## Conclusion
 
 <img width="807" alt="Screenshot 2024-06-08 at 00 54 54" src="https://github.com/MKasigwa/datascience_project1/assets/38250874/d8c89901-465b-45de-9316-f9776bda32af">
